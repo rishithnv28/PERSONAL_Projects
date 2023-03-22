@@ -3,3 +3,6 @@ These are a collection of various projects I created during I was learning vario
 
 First folder Contains projects Written in Go Lang. 
   -First project is a CLI booking application that I made while I was completeting a Youtube coure at https://www.youtube.com/watch?v=yyUHQIec83I
+
+Second folder Contains projects Written in Java.
+  -First project is a set of Practice problems ranging from begginer to advanced, all solved in JAVA.
